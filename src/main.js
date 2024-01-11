@@ -72,3 +72,13 @@ itemList.addEventListener("click", removeItem);
 itemClear.addEventListener("click", removeAllItem);
 
 checkUI();
+
+
+/**  
+T0-Do
+
+Add the functionality to filter item section by adding event listener and compairing string of li and filter text
+ 
+
+
+*/
